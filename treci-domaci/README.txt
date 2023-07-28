@@ -1,0 +1,1 @@
+U ovoj fazi je implementiran samo CRC hash nad XTEA algoritmom, dok CBC mod nije ni nad jednim.
