@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _17248_dom1
+namespace _17248_Darko_Milicevic_prvi_domaci
 {
     static class Program
     {

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("17248_dom1")]
+[assembly: AssemblyTitle("17248_Darko_Milicevic_prvi_domaci")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("17248_dom1")]
+[assembly: AssemblyProduct("17248_Darko_Milicevic_prvi_domaci")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7ec3abe3-aaaf-46b7-8614-d731ec75a4a4")]
+[assembly: Guid("f6c23cb2-e30c-4bb4-8df8-93c77ec8bfed")]
 
 // Version information for an assembly consists of the following four values:
 //
